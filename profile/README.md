@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1706696350/Multiwoven/Logo_hrkaxj.png" alt="Multiwoven" width="240" />
 
-  <p align="center">Open-Source Reverse ETL platform</p>
+  <p align="center">The Open-Source Reverse ETL platform</p>
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ##
 
-Multiwoven is an open-source reverse ETL platform for modern data teams. Multiwoven makes data segmentation, sync and activation both easy and fully secure. 
+Multiwoven is an the open-source reverse ETL platform for modern data teams. Multiwoven makes data segmentation, sync and activation both easy and fully secure. 
 
-👉 Clean and intuitive UI for building complex data pipelines.
+👉 Clean and intuitive UI for building complex data pipelines from datawarehouses to business tools.
 
-👉 Connect to any datawarehouse like Snowflake, Redshift, BigQuery, Databricks.
+👉 Easy connections to datawarehouses like Snowflake, Redshift, BigQuery, Databricks.
 
 👉 Rapidly growing number of integrations with business tools like Salesforce, Braze, Slack  Klaviyo, Facebook Ads, etc.
 
