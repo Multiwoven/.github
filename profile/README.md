@@ -20,7 +20,7 @@
 
 ##
 
-Multiwoven is an the open-source reverse ETL platform for modern data teams. Multiwoven makes data segmentation, sync and activation both easy and fully secure. 
+Multiwoven is the open-source reverse ETL platform for modern data teams. Multiwoven makes data segmentation, sync and activation both easy and fully secure. 
 
 👉 Clean and intuitive UI for building complex data pipelines from datawarehouses to business tools.
 
