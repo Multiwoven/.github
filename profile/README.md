@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1706696350/Multiwoven/Logo_hrkaxj.png" alt="Multiwoven" width="240" />
 
-  <p align="center">The Open-Source Reverse ETL platform</p>
+  <p align="center">Open Source Salesforce CDP Alternative</p>
 </p>
 
 <p align="center">
@@ -17,10 +17,15 @@
     ·
     <a href="https://github.com/orgs/Multiwoven/projects/4">Roadmap</a>
   </p>
+  <p align="center">
+    <a href="https://github.com/Multiwoven/multiwoven">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub">
+    </a>
+  </p>
 
 ##
 
-Multiwoven is the open-source reverse ETL platform for modern data teams. Multiwoven makes data segmentation, sync and activation both easy and fully secure. 
+Multiwoven makes it easy to self-host and deploy a fully secure, scalable, and customizable CDP. It is built on top of open-source technologies and is designed to be easily integrated with your existing data warehouse and data lake. It is a great alternative to Salesforce CDP, Segment, and other proprietary CDPs.
 
 👉 Clean and intuitive UI for building complex data pipelines from datawarehouses to business tools.
 
