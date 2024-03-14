@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1706696350/Multiwoven/Logo_hrkaxj.png" alt="Multiwoven" width="240" />
 
-  <p align="center">Open Source Salesforce CDP Alternative</p>
+  <p align="center">Open Source Reverse ETL & Customer Data Platform (CDP)</p>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ##
 
-Multiwoven makes it easy to self-host and deploy a fully secure, scalable, and customizable CDP. It is built on top of open-source technologies and is designed to be easily integrated with your existing data warehouse and data lake. It is a great alternative to Salesforce CDP, Segment, and other proprietary CDPs.
+Multiwoven makes it easy to self-host and deploy a fully secure, scalable, and customizable CDP and Reverse ETL platform. It is built on top of open-source technologies and is designed to be easily integrated with your existing data warehouse and data lake, an open-source alternative to tools like **Hightouch**, **Census**, and **RudderStack**.
 
 👉 Clean and intuitive UI for building complex data pipelines from datawarehouses to business tools.
 
