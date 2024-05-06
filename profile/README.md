@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1706696350/Multiwoven/Logo_hrkaxj.png" alt="Multiwoven" width="240" />
+  <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1714997618/AIS/multiwoven_-_logo_-_light_eewnz3.svg" alt="Multiwoven" width="240" />
 
   <p align="center">Open Source Reverse ETL & Customer Data Platform (CDP)</p>
 </p>
@@ -25,7 +25,7 @@
 
 ##
 
-Multiwoven makes it easy to self-host and deploy a fully secure, scalable, and customizable CDP and Reverse ETL platform. It is built on top of open-source technologies and is designed to be easily integrated with your existing data warehouse and data lake, an open-source alternative to tools like **Hightouch**, **Census**, and **RudderStack**.
+Multiwoven makes it easy to self-host and deploy a fully secure, scalable, and customizable Reverse ETL platform. It is built on top of open-source technologies and is designed to be easily integrated with your existing data warehouse and data lake, an open-source alternative to tools like **Hightouch**, **Census**, and **RudderStack**.
 
 👉 Clean and intuitive UI for building complex data pipelines from datawarehouses to business tools.
 
