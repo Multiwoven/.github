@@ -6,14 +6,14 @@
 
 <p align="center">
     <br />
-    <a href="https://docs.multiwoven.com" rel=""><strong>Explore the docs »</strong></a>
+    <a href="https://docs.squared.ai/open-source/introduction" rel=""><strong>Explore the docs »</strong></a>
     <br />
   <br/>
   <a href="https://www.multiwoven.com/slack">Slack</a>
     ·
-    <a href="https://multiwoven.com">Website</a>
+    <a href="https://squared.ai/multiwoven-reverse-etl">Website</a>
     ·
-    <a href="https://blog.multiwoven.com">Blog</a>
+    <a href="https://blog.squared.ai">Blog</a>
     ·
     <a href="https://github.com/orgs/Multiwoven/projects/4">Roadmap</a>
   </p>
