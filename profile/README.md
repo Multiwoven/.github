@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dspflukeu/image/upload/v1714997618/AIS/multiwoven_-_logo_-_light_eewnz3.svg" alt="Multiwoven" width="240" />
+  <img src="https://res.cloudinary.com/dsyfasxld/image/upload/v1719329817/MW_x_AIS_-_logo_-_brand_w2jtmz.svg" alt="Multiwoven" width="240" />
 
   <p align="center">Open Source Reverse ETL & Customer Data Platform (CDP)</p>
 </p>
